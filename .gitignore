@@ -20,19 +20,14 @@ usr/
 
 /lost+found/
 
-# Log files in /var
-/var/log/
+/var/
 
-# Cache and temporary data
-/var/cache/
 
-# Do not track the entire /boot, be selective
 /boot/*.img
 /boot/initrd*
-# But DO track your grub config, so don't ignore /boot/grub/
 
-# Do not track the entire /etc, be selective, so we don't ignore it globally
+
 # /etc/
 
-# Optional: Ignore all hidden files in root (be careful with this)
+
 # /.*
