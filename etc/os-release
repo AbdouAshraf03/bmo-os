@@ -1,0 +1,7 @@
+NAME="BMO_OS"
+VERSION="0.1v"
+ID=bmo_os
+PRETTY_NAME="BMO OS 0.1v (Systemd Edition)"
+VERSION_CODENAME="BMO"
+HOME_URL="https://github.com/AbdouAshraf03/bmo-os"
+RELEASE_TYPE="development"
