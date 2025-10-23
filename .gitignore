@@ -1,11 +1,11 @@
 # System libraries and binaries
-/lib/
+lib
 /lib64/
 /lib32/
-/bin/
-/sbin/
-/usr/bin/
-/usr/sbin/
+bin
+sbin
+usr/
+
 
 # System and temporary directories
 /proc/
@@ -16,7 +16,7 @@
 /mnt/
 /root/
 /sources/
-/bin/
+
 
 /lost+found/
 
