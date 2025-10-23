@@ -286,8 +286,7 @@ Logs or visual indicators showing keyboard events and device activity.
 
 # Basic System Models
 
-![image.png](attachment:4d541d7a-2ca1-44b8-bfee-b52a81c84843:image.png)
-
+![image.png](use_case.png)
 ## System Navigation Map
 
 https://www.figma.com/design/dVsgKYMbLgFfvoFYwngmEQ/Untitled?node-id=2-2&t=EelF7WTW3ohg4ETf-1
