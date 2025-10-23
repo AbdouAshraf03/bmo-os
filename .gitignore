@@ -1,3 +1,12 @@
+# System libraries and binaries
+/lib/
+/lib64/
+/lib32/
+/bin/
+/sbin/
+/usr/bin/
+/usr/sbin/
+
 # System and temporary directories
 /proc/
 /dev/
@@ -7,6 +16,8 @@
 /mnt/
 /root/
 /sources/
+/bin/
+
 /lost+found/
 
 # Log files in /var
